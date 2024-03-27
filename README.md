@@ -18,9 +18,9 @@ EDITHE
 </big>
 </h1>
 
-<img src=a.jpeg  width=300 height=300>
-<img src="b.jpeg" width="300" height="300">
-<img src="c.jpeg"  width="300" height=300>
+<img src="ed.jpg  width=300 height=300>
+<img src="edi.jpeg" width="300" height="300">
+<img src="edit.jpg"  width="300" height=300>
 <br>
 
 <img src=A.png  width=230 height=100 align=center>
