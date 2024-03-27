@@ -3,7 +3,7 @@
 <HTML lang="pt-br">
 <HEAD>
         <meta charset="utf-8">
-<TITLE>EDITHE</TITLE>
+
 <link rel="stylesheet" href="style.css">
 </HEAD>
 <BODY>
