@@ -18,7 +18,7 @@ EDITHE
 </big>
 </h1>
 
-<img src="ed.jpg  width=300 height=300>
+<img src="volei.jpeg"  width=300 height=300>
 <img src="edi.jpeg" width="300" height="300">
 <img src="edit.jpg"  width="300" height=300>
 <br>
